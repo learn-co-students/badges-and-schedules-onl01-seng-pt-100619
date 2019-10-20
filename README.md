@@ -1,4 +1,4 @@
-# Badges and Schedules
+had # Badges and Schedules
 
 ## Objectives
 
